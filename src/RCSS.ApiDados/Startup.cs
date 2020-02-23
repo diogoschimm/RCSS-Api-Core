@@ -27,7 +27,7 @@ namespace RCSS.ApiDados
         {
             services.AddCors();
             services.AddControllers();
-
+            
             services.AddDbContext<ProjetoRcssContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("RcssContext")));
 
@@ -96,6 +96,7 @@ namespace RCSS.ApiDados
 
             app.UseAuthentication();
             app.UseAuthorization();
+            app.UseStaticFiles();
 
             app.UseSwagger();
             app.UseSwaggerUI(c =>
