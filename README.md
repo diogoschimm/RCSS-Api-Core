@@ -12,3 +12,6 @@ Neste projeto criei uma (Application Programing Interface) API para um sistema f
 Para acesso a dados utilizei o ORM (Object Relational Mapper) Entity Framework Core.  
 Utilizei também conceitos como Mapeamento de Objetos com AutoMapper.  
 Para Autenticação utilizei uma implementação do JWT (JSON WEB TOKEN).  
+
+### Modelo de Dados
+ 
