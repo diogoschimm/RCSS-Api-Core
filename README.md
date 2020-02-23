@@ -14,4 +14,7 @@ Utilizei também conceitos como Mapeamento de Objetos com AutoMapper.
 Para Autenticação utilizei uma implementação do JWT (JSON WEB TOKEN).  
 
 ### Modelo de Dados
+
+![image](https://user-images.githubusercontent.com/30643035/75103089-3b9c2680-55cc-11ea-9820-115263c350ba.png)
+
  
