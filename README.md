@@ -1,10 +1,6 @@
 # RCSS-Api-Core
 Projeto Asp.Net Core Web Api com JSON Web Token (JWT) para um sistema financeiro pessoal
 
-### Link do Projeto
-
-http://rcss-api.diogoschimm.eti.br/swagger
-
 
 ### Descrição
 Neste projeto criei uma (Application Programing Interface) API para um sistema financeiro pessoal, utilizei conceitos como:
