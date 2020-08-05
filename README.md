@@ -8,7 +8,7 @@ Neste projeto criei uma (Application Programing Interface) API para um sistema f
 - Repository Pattern; 
 - Unit of Work;
 - Sevices Pattern;
-- Domain Drive Design;
+- Domain Driven Design;
 
 Para acesso a dados utilizei o ORM (Object Relational Mapper) Entity Framework Core.  
 Utilizei também conceitos como Mapeamento de Objetos com AutoMapper.  
